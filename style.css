@@ -5,7 +5,12 @@ body {
     background-color: red;
 }
 
-img {
+img#1 {
     width: 500px;
     height: 500px;
+}
+
+img#2 {
+    height: 250px;
+    width: 250px;
 }
